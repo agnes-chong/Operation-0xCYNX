@@ -1,4 +1,5 @@
 # 🕰️ The 0x19 Paradox — Reverse Engineering CTF Write-up
+<img width="624" height="567" alt="image" src="https://github.com/user-attachments/assets/4ca6f4a7-c0ba-4fc8-9ea3-e3f442b569c6" />
 
 ## Challenge Overview
 **Category:** Reverse Engineering  
