@@ -62,7 +62,7 @@ This looks like a flag format, b
 We apply ROT13 to the entire string.
 
 ### Flag
-'''CYNX{tie_i_fake}'''
+```CYNX{tie_i_fake}```
 
 ## Summary of Techniques Used:
 - Static analysis with Ghidra
