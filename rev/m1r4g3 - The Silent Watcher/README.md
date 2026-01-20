@@ -1,8 +1,6 @@
 # m1r4g3 - The Silent Watcher (CTF Write-up)
 
-**Category:** Reverse Engineering  
-**Points:** 230  
-**Difficulty:** Medium  
+**Category:** Reverse Engineering    
 <img width="622" height="891" alt="image" src="https://github.com/user-attachments/assets/2faafcef-ec18-4f90-93eb-acfcc5c758a5" />
 
 ## Challenge Description
