@@ -16,6 +16,7 @@ After loading the binary into **Ghidra** and letting it auto-analyze, we inspect
 
 # Decompiled `main()`
 <img width="606" height="775" alt="image" src="https://github.com/user-attachments/assets/1b3fb14d-8db6-435b-8b42-bd5853f17cb5" />
+
 # Key Observation:
 `0x11`(hex) = 17
 `0x19`(hex) = 25
