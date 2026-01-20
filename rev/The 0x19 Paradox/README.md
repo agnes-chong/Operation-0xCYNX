@@ -26,6 +26,7 @@ This is the core idea behind the challenge name: **The 0x19 Paradox**.
 
 ## Step 2: Understanding `get_day()`
 <img width="608" height="457" alt="image" src="https://github.com/user-attachments/assets/488a26ec-ba4a-4ed0-bb85-7c34aa5c7cf3" />
+
 # What this means:
 `time()` get the current system time
 `localtime()` converts it into atmstructure
